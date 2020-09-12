@@ -1,0 +1,21 @@
+p {
+
+    text-align: center;
+    color: white;
+    font-family: 'Source Code Pro', monospace;
+    
+}
+
+hr.style1 {
+    border-top: 3px double #8c8b8b;
+    width: 50%;
+    
+}
+
+h2, h3 {
+
+    text-align: center;
+    color: white;
+    font-family: 'Slabo 27px', serif;
+    
+}

@@ -1,0 +1,34 @@
+div.exp-text, h5{
+    text-align: center;
+    color: white;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 100;
+
+}
+
+h2, h3 {
+
+    text-align: center;
+    color: white;
+    font-family: 'Slabo 27px', serif;
+    
+}
+hr.style1 {
+    border-top: 3px double #8c8b8b;
+    width: 50%;
+    
+}
+
+div.border {
+    width: 50%;
+    align-content: center;
+    margin: auto;
+  
+}
+
+.animated {
+    visibility: visible !important;
+}
+.hide-on-init {
+    visibility: hidden;
+}
